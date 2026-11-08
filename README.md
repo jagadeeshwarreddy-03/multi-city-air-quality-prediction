@@ -109,5 +109,31 @@ The project demonstrates how Machine Learning and time-series feature engineerin
 
 The Random Forest model achieved an R² score of 0.8664 on the test dataset.
 
+## Dashboard Screenshots
+
+### 1. Dashboard Overview
+![Dashboard Overview](screenshots/Screenshot%202026-11-08%20214707.png)
+
+### 2. Daily PM2.5 Trends
+![Daily Trends](screenshots/Screenshot%202026-11-08%20214201.png)
+
+### 3. Seasonal Air Quality Analysis
+![Seasonal Analysis](screenshots/Screenshot%202026-11-08%20214214.png)
+
+### 4. City-wise PM2.5 Distribution
+![PM2.5 Distribution](screenshots/Screenshot%202026-11-08%20214227.png)
+
+### 5. Air Pollution Correlation Heatmap
+![Correlation Heatmap](screenshots/Screenshot%202026-11-08%20214241.png)
+
+### 6. Actual vs Predicted PM2.5
+![Actual vs Predicted](screenshots/Screenshot%202026-11-08%20214259.png)
+
+### 7. Machine Learning Model Comparison
+![Model Comparison](screenshots/Screenshot%202026-11-08%20214314.png)
+
+### 8. Feature Importance Analysis
+![Feature Importance](screenshots/Screenshot%202026-11-08%20214325.png)
+
 
 **Project:** Multi-City Air Quality Prediction in India Using Machine Learning and Time-Series Analysis
