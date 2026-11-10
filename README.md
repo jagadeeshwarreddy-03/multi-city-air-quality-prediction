@@ -1,4 +1,4 @@
-# Multi-City Air Quality Prediction in India Using Machine Learning and Time-Series Analysis
+# Air Quality Prediction Across Multiple Indian Cities Using Machine Learning
 
 ## Project Overview
 
