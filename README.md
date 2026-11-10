@@ -109,31 +109,30 @@ The project demonstrates how Machine Learning and time-series feature engineerin
 
 The Random Forest model achieved an R² score of 0.8664 on the test dataset.
 
-## Dashboard Screenshots
 
-### 1. Dashboard Overview
-![Dashboard Overview](screenshots/Screenshot%202026-11-08%20214707.png)
+## 📸 Dashboard Screenshots
 
-### 2. Daily PM2.5 Trends
-![Daily Trends](screenshots/Screenshot%202026-11-08%20214201.png)
+### 1. Main Dashboard Overview
+![Air Quality Dashboard](screenshots/Screenshot%202026-11-10%20171444.png)
 
-### 3. Seasonal Air Quality Analysis
-![Seasonal Analysis](screenshots/Screenshot%202026-11-08%20214214.png)
+### 2. Average PM2.5 Concentration Across Indian Cities
+![Average PM2.5 Concentration](screenshots/average-pm25-concentration-across-indian.png)
 
-### 4. City-wise PM2.5 Distribution
-![PM2.5 Distribution](screenshots/Screenshot%202026-11-08%20214227.png)
+### 3. PM2.5 Distribution Across Selected Cities
+![PM2.5 Distribution](screenshots/pm25-distribution-across-selected-cities.png)
 
-### 5. Air Pollution Correlation Heatmap
-![Correlation Heatmap](screenshots/Screenshot%202026-11-08%20214241.png)
+### 4. Air Pollutant Correlation Heatmap
+![Pollutant Correlation Heatmap](screenshots/correlation-between-available-air-pollut.png)
 
-### 6. Actual vs Predicted PM2.5
-![Actual vs Predicted](screenshots/Screenshot%202026-11-08%20214259.png)
+### 5. Actual vs Predicted PM2.5 – Random Forest
+![Actual vs Predicted PM2.5](screenshots/actual-vs-predicted-pm25-random-forest.png)
 
-### 7. Machine Learning Model Comparison
-![Model Comparison](screenshots/Screenshot%202026-11-08%20214314.png)
+### 6. R² Score Comparison
+![R2 Score Comparison](screenshots/r%C2%B2-score-comparison.png)
 
-### 8. Feature Importance Analysis
-![Feature Importance](screenshots/Screenshot%202026-11-08%20214325.png)
+### 7. Top 15 Features Influencing PM2.5 Estimation
+![Feature Importance](screenshots/top-15-features-influencing-pm25-estimat.png)
+
 
 
 **Project:** Multi-City Air Quality Prediction in India Using Machine Learning and Time-Series Analysis
