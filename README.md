@@ -31,16 +31,16 @@ The dataset contains air quality measurements and weather-related parameters col
 
 ## 🛠️ Technologies Used
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Streamlit
-- Plotly
-- Jupyter Notebook / Google Colab
-- Git and GitHub
+NumPy – 1.24.4
+Matplotlib – 3.7.2
+Seaborn – 0.13.0
+Scikit-learn – 1.3.2
+Streamlit – 1.28.2
+Plotly – 5.18.0
+Jupyter Notebook – 7.0.6
+Google Colab – Cloud-based platform (version varies)
+Git – 2.x
+GitHub – Cloud-based platform (version varies)
 
 ## ⚙️ Project Workflow
 
