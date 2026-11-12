@@ -218,3 +218,201 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# ==========================================
+# Python Bytecode and Cache
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# ==========================================
+# Virtual Environments
+# ==========================================
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.python-version
+
+# ==========================================
+# Distribution and Packaging
+# ==========================================
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# ==========================================
+# Installer Logs
+# ==========================================
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ==========================================
+# Testing and Coverage
+# ==========================================
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py.cover
+*.lcov
+.hypothesis/
+.pytest_cache/
+cover/
+
+# ==========================================
+# Environment Variables and Secrets
+# ==========================================
+.env
+.env.*
+!.env.example
+.envrc
+.streamlit/secrets.toml
+.pypirc
+
+# ==========================================
+# Django / Flask
+# ==========================================
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+instance/
+.webassets-cache/
+
+# ==========================================
+# Scrapy / Documentation
+# ==========================================
+.scrapy/
+docs/_build/
+/site/
+
+# ==========================================
+# Jupyter Notebook and IPython
+# ==========================================
+.ipynb_checkpoints/
+profile_default/
+ipython_config.py
+
+# ==========================================
+# Python Package Managers
+# ==========================================
+.pdm-python
+.pdm-build/
+.pixi/*
+!.pixi/config.toml
+__pypackages__/
+
+# Uncomment if needed
+# Pipfile.lock
+# uv.lock
+# poetry.lock
+# poetry.toml
+# pdm.lock
+# pdm.toml
+
+# ==========================================
+# Type Checkers and Linters
+# ==========================================
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+.ruff_cache/
+cython_debug/
+
+# ==========================================
+# IDE and Editor Files
+# ==========================================
+.vscode/
+.idea/
+.spyderproject
+.spyproject
+.ropeproject
+*.sublime-workspace
+*.sublime-project
+tempCodeRunnerFile.py
+
+# ==========================================
+# Operating System Files
+# ==========================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================================
+# Redis / RabbitMQ / Celery
+# ==========================================
+*.rdb
+*.aof
+*.pid
+celerybeat-schedule*
+celerybeat.pid
+mnesia/
+rabbitmq/
+rabbitmq-data/
+
+# ==========================================
+# Other Frameworks
+# ==========================================
+abstra/
+.abstra/
+.pybuilder/
+target/
+*.sage.py
+marimo/_static/
+marimo/_lsp/
+__marimo__/
+
+# ==========================================
+# Credit Card Fraud Detection - ML Files
+# ==========================================
+
+# Generated model files
+# Uncomment if you don't want to upload trained models
+# *.pkl
+# *.joblib
+# *.h5
+# *.keras
+
+# Generated reports and outputs
+reports/generated/
+outputs/
+*.log
+
+# Temporary datasets
+# Uncomment only if all CSV files should be ignored
+# *.csv
+# *.xlsx
+# *.zip
+
