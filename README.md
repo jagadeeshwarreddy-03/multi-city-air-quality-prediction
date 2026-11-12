@@ -39,8 +39,8 @@ The dataset contains air quality measurements and weather-related parameters col
 - Scikit-learn
 - Streamlit
 - Plotly
-- Jupyter Notebook / Google Colab
-- Git and GitHub
+- Jupyter Notebook
+- GitHub
 
 ## ⚙️ Project Workflow
 
